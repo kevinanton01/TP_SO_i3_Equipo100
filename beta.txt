@@ -1,0 +1,33 @@
+Antón Kevin 
+Configuración IP de Windows
+
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::c0fd:5644:d735:3a16%32
+   Dirección IPv4. . . . . . . . . . . . . . : 172.24.48.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:552:22f:b8bd:aa61:2495:dbef
+   Dirección IPv6 . . . . . . . . . . : 2800:810:552:22f:c159:addd:58ff:f48a
+   Dirección IPv6 temporal. . . . . . : 2800:810:552:22f:a49a:87dd:10cb:d2ca
+   Vínculo: dirección IPv6 local. . . : fe80::24a9:bf09:3ba7:20d1%10
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.95
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::22b8:2bff:fe32:e981%10
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::abaf:c9a5:c977:402%17
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+HORA: 11:53
