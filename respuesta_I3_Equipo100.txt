@@ -12,8 +12,14 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+	No pero Beta tiene la ultima información agregada.
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+	Cuando hacemos el git push, no nos dejaba agregarlo hasta que agregamos origin Alcaraz, para saber la rama.
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
-
+	git checkout main
+	git pull
+	git checkout Anton
+	git pull
+	git push origin Anton
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
