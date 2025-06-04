@@ -23,3 +23,9 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 	git push origin Anton
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+	git checkout main
+	git pull
+	git checkout Anton
+	git pull
+	git push origin Anton
